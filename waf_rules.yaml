@@ -1,0 +1,13 @@
+# waf_rules.yaml
+# Simulation d'une configuration WAF (style Signal Sciences)
+# Liste des IPs autorisées et bloquées
+
+allowed_ips:
+  - 192.168.10.10
+  - 192.168.10.11
+
+blocked_ips:
+  - 203.0.113.5
+  - 198.51.100.23
+
+rules_version: 1.0
