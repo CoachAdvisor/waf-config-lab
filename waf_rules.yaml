@@ -12,5 +12,7 @@ allowed_ips:
 blocked_ips:
   - 203.0.113.5
   - 198.51.100.23
+  - 66.77.88.99
+
 
 rules_version: 1.0
